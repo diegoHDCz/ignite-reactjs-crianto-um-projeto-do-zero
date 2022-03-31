@@ -1,0 +1,61 @@
+{
+  "id": "ebaa7687-7edd-43c5-82bb-eccce473df82",
+  "uid": "aut-aut-ipsum",
+  "type": "Post",
+  "data": {
+    "banner": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=900&h=500&fit=crop"
+    },
+    "title": "enable efficient partnerships",
+    "author": "empower clicks-and-mortar deliverables",
+    "subtitle": "drive value-added portals",
+    "content": [
+      {
+        "heading": "redefine extensible ROI",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Ut eu fugiat irure quis voluptate mollit. Minim voluptate Lorem labore do eiusmod eiusmod deserunt deserunt velit est ex ea ullamco ea. Sunt anim officia ad culpa Lorem minim voluptate.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "deploy collaborative web services",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Aliquip tempor ad enim fugiat.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "redefine plug-and-play initiatives",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Fugiat esse ea qui velit consectetur nostrud enim laborum aute ullamco dolore dolore do. Consequat labore non ad sunt irure.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "revolutionize intuitive paradigms",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Qui mollit voluptate ex aute ea nisi. Ullamco est minim voluptate incididunt cillum cupidatat ex reprehenderit minim labore.",
+            "spans": []
+          }
+        ]
+      }
+    ]
+  }
+}
